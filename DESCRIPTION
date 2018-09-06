@@ -1,10 +1,10 @@
 Package: mFilter
-Title: Miscellaneous time series filters
+Title: Miscellaneous Time Series Filters
 Date: 2007-10-2
-Version: 0.1-3
+Version: 0.1-4
 Author: Mehmet Balcilar <mbalcilar@yahoo.com>
 Depends: R (>= 2.2.0), stats
-Suggests: tseries, pastecs, locfit, tseriesChaos, RTisean, tsDyn,
+Suggests: tseries, pastecs, locfit, tseriesChaos, tsDyn,
         forecast
 Description: The package implements several time series filters useful
         for smoothing and extracting trend and cyclical components of a
@@ -16,6 +16,5 @@ Description: The package implements several time series filters useful
 Maintainer: Mehmet Balcilar <mbalcilar@yahoo.com>
 License: GPL (>= 2)
 URL: http://www.mbalcilar.net/mFilter, http://www.r-project.org
-Packaged: Tue Nov 6 09:32:46 2007; mehmet
-Repository: CRAN
-Date/Publication: 2007-11-06 10:00:46
+Encoding: UTF-8
+RoxygenNote: 6.1.0

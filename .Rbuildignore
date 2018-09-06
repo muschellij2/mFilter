@@ -1,0 +1,5 @@
+^README\.Rmd$
+^appveyor\.yml$
+^\.travis\.yml$
+^mFilter\.Rproj$
+^\.Rproj\.user$
